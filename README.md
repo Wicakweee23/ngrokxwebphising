@@ -169,4 +169,14 @@ PARAM: RememberMe=false
 kita akan mulai menggunakan `ngrok`. Kita akan coba memfungsikan ngrok sebagai media `tunneling` yang akan membuat website palsu kita pada tahap pertama tadi bisa diakses oleh network publik.
 Note : 
 > pastikan kamu sudah memiliki akun di ngrok, kita akan menggunakan authtoken dari ngrok untuk memulainya
-<img src="/path/to/img.jpg" alt="Alt text">
+<img src="gambar/ngrok auth.jpeg" alt="Alt text">
+
+Nah, copy-paste kan authtoken yang kalian punya lalu jalankan di terminal dengan menggunakan `./` agar bisa berjalan dengan baik
+```
+#1
+./ngrok config add-authtoken tokenkaliandisinixyz
+#2
+./ngrok http 80
+```
+Jalankan masing - masing perintah, maka ngrok akan memulai forwarding ke network publik
+<img src="gambar/ngrok ok.jpeg" alt="Alt text">
