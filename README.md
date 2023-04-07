@@ -171,4 +171,4 @@ Note :
 > pastikan kamu sudah memiliki akun di ngrok, kita akan menggunakan authtoken dari ngrok untuk memulainya
 
 
-![Alt text](gambar/ngrok auth.jpg "ngrok")
+![Alt text](gambar/ngrok auth.jpeg "ngrok")
