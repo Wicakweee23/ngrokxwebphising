@@ -180,3 +180,20 @@ Nah, copy-paste kan authtoken yang kalian punya lalu jalankan di terminal dengan
 ```
 Jalankan masing - masing perintah, maka ngrok akan memulai forwarding ke network publik
 <img src="gambar/ngrok ok.jpeg" alt="Alt text">
+
+
+Oke mari kita coba buka link forwarding yang saya sensor
+<img src="gambar/ngrok tes.jpeg" alt="Alt text">
+apabila sudah tampil seperti ini artinya tunneling kita sudah berhasil dan siap kita isi dengan website dari localhost yang kita punya
+
+
+**oke sampai disini kita lihat tahap pertama tadi pada bagian ini `set:webattack> IP address for the POST back in Harvester/Tabnabbing [ip.addr.ess.kamu]:80`**
+Tuliskan 80 (sama seperti yang kita lakukan pada ngrok)lalu tekan `enter`
+
+Lalu apalagi? yasudah kita tinggal menyelesaikan langkah - langkah yang ada di setoolkit. Ketika sudah kalian tinggal meng-copy url forwarding yang telah github berikan. Dengan begitu, target yang membuka link tersebut akan melihat halaman login phising yang telah dibuat.
+Ketika link dari ngrok sudah mendapat trigger dan masukan dari korban, kalian akan mendapat notifikasi yang sama seperti pada tahap pertama diatas.
+
+Akhir kata saya ucapkan terima kasih atas perhatiannya. Saya harap ini dapat membantu pembaca untuk sama sama saling belajar. Apabila ada salah kata, kritik, dan saran, saya sangat terbuka untuk itu dan saya akan berusaha untuk tetap merespon. 
+
+Terima Kasih
+Li3N4X
