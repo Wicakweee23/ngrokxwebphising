@@ -1,10 +1,10 @@
 # ngrokxwebphising by Li3N4X
 Ini adalah repository pertama saya di github. Saya bermaksud untuk membuat dokumentasi saat saya belajar *Social Engineering*.
-Tunneling web phising menggunakan ngrok. Saya bermaksud untuk berbagi ilmu dan pemahaman dalam maksud dan tujuan untuk belajar dan tidak menyalahgunakanhal yang sudah saya pelajari, karena saya sadar hal ini dapat berbahaya dan dapat disalahgunakan ditangan orang jahat/kriminal. Jika ada, entah siapapun yang melakukan tindakan perusakan/cybercrime yang disebabkan dari pembelajaran tutorial yang saya buat, 
-Dengan tegas kami saya tidak bertanggung jawab kepada yang bersangkutan
+Tunneling web phising menggunakan ngrok. Saya bermaksud untuk berbagi ilmu dan pemahaman dalam maksud dan tujuan untuk belajar dan tidak menyalahgunakan hal yang sudah saya pelajari, karena saya sadar hal ini dapat berbahaya dan dapat disalahgunakan ditangan orang jahat/kriminal. Jika ada, entah siapapun yang melakukan tindakan perusakan/cybercrime yang disebabkan dari pembelajaran tutorial yang saya buat, 
+Dengan tegas saya tidak bertanggung jawab kepada yang bersangkutan
 Saya percaya bahwa tidak mungkin membela diri dari peretas tanpa mengetahui peretasan itu dilakukan.
 
-Tujuan utama dari kegiatan ini adalah untuk mengetahui bagaimana cara kita bisa melakukan sebagai berikut :
+Tujuan utama dari kegiatan ini adalah sebagai berikut :
 - Mengenal Web Phising
 - Tunneling
 - Ngrok
@@ -18,7 +18,7 @@ Yang perlu disiapkan terlebih dahulu :
 - Akun ngrok
 - Install ngrok
 - Install setoolkit
-- Bahan login page sebuah website
+- Login page sebuah website yang sudah di save
 
 ## Tahap Pertama
 Kita akan menggunakan dan mencoba bahan yang kita siapkan sudah siap untuk digunakan. 
@@ -190,7 +190,7 @@ apabila sudah tampil seperti ini artinya tunneling kita sudah berhasil dan siap 
 **oke sampai disini kita lihat tahap pertama tadi pada bagian ini `set:webattack> IP address for the POST back in Harvester/Tabnabbing [ip.addr.ess.kamu]:80`**
 Tuliskan 80 (sama seperti yang kita lakukan pada ngrok)lalu tekan `enter`
 
-Lalu apalagi? yasudah kita tinggal menyelesaikan langkah - langkah yang ada di setoolkit. Ketika sudah kalian tinggal meng-copy url forwarding yang telah github berikan. Dengan begitu, target yang membuka link tersebut akan melihat halaman login phising yang telah dibuat.
+Lalu apalagi? yasudah kita tinggal menyelesaikan langkah - langkah yang ada di setoolkit. Jika sudah, kalian tinggal meng-copy url forwarding yang telah github berikan. Dengan begitu, target yang membuka link tersebut akan melihat halaman login phising yang telah dibuat.
 Ketika link dari ngrok sudah mendapat trigger dan masukan dari korban, kalian akan mendapat notifikasi yang sama seperti pada tahap pertama diatas.
 
 Akhir kata saya ucapkan terima kasih atas perhatiannya. Saya harap ini dapat membantu pembaca untuk sama sama saling belajar. Apabila ada salah kata, kritik, dan saran, saya sangat terbuka untuk itu dan saya akan berusaha untuk tetap merespon. 
